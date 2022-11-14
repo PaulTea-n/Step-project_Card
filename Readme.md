@@ -1,5 +1,8 @@
 # Назва проекту **Step Project Cards**
 
+### Email: nechaip@gmail.com
+### Password: 1234
+
 ### Учасники проекту
 
 - Denys Palyha
@@ -21,3 +24,4 @@
 ## Vladyslav Popil
 
 - Зробив фільтрацію карток візитів.
+
